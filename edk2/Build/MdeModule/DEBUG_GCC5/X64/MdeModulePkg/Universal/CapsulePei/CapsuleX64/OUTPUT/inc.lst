@@ -1,0 +1,14 @@
+-I/home/yyk/edk2/MdeModulePkg/Universal/CapsulePei/Common
+-I/home/yyk/edk2/MdeModulePkg/Universal/CapsulePei/X64
+-I/home/yyk/edk2/MdeModulePkg/Universal/CapsulePei
+-I/home/yyk/edk2/Build/MdeModule/DEBUG_GCC5/X64/MdeModulePkg/Universal/CapsulePei/CapsuleX64/DEBUG
+-I/home/yyk/edk2/MdePkg
+-I/home/yyk/edk2/MdePkg/Include
+-I/home/yyk/edk2/MdePkg/Test/UnitTest/Include
+-I/home/yyk/edk2/MdePkg/Test/Mock/Include
+-I/home/yyk/edk2/MdePkg/Library/MipiSysTLib/mipisyst/library/include
+-I/home/yyk/edk2/MdePkg/Include/X64
+-I/home/yyk/edk2/MdeModulePkg
+-I/home/yyk/edk2/MdeModulePkg/Include
+-I/home/yyk/edk2/MdeModulePkg/Test/Mock/Include
+-I/home/yyk/edk2/MdeModulePkg/Library/BrotliCustomDecompressLib/brotli/c/include
